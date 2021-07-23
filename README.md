@@ -1,6 +1,5 @@
     Hi there 👋
 
-    I'm Eric (😄 Pronouns: Eric: `air-ick`), a Rwandan Fullstack developer, currently living in Kigali, Rwanda.
     My name is Hugues Ntwari,a software engineer based in Kigali-Rwanda, looking to colaborate on some cool projects :)
 
 <br>
