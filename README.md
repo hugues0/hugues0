@@ -10,7 +10,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=dark" alt="Ntwari Hugues" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugues0&layout=compact&cache_seconds=86400&theme=dark" alt="Ntwari Hugues" /></p>
 
 <br>
 ### 📫 Get in touch:
