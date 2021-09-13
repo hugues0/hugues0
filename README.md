@@ -1,6 +1,4 @@
-    Hi there 👋
-
-    My name is Hugues Ntwari,a software engineer based in Kigali-Rwanda, looking to colaborate on some cool projects :)
+   
 
 <br>
 
