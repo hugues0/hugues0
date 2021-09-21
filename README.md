@@ -10,7 +10,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=dark" alt="Ntwari Hugues" /></p>
 
-#### Used tools:
+#### Technologies used:
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="20" height="20"/> </a> 
