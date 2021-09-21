@@ -18,7 +18,6 @@
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind css" width="20" height="20"/> </a> 
 <a href="https://mui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="20" height="20"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="20" height="20"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="20" height="20"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/> </a> 
 <a href="https://netlify.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="20" height="20"/> </a>
@@ -30,6 +29,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="20" height="20"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="20" height="20"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="20" height="20"/> </a>
 </p>
 
 <br>
