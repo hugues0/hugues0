@@ -31,6 +31,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="25" height="25"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="25" height="25"/> </a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nest.svg" alt="nest" width="25" height="25"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="25" height="25"/> </a>
 </p>
 
