@@ -1,5 +1,5 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Ntwari Hugues</h1>
-<h3 align="left">I am a Software Developer based in Rwanda, Kigali </h3>
+<h3 align="left">I am a Software Developer based in Kigali, Rwanda  </h3>
 
 <br>
 <a href="#suhailkakar-title">
