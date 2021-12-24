@@ -1,42 +1,139 @@
-    Hi 👋
-    
-    My name is Hugues Ntwari,a software engineer based in Kigali-Rwanda, looking to colaborate on some cool projects :)
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Ntwari Hugues</h1>
+<h3 align="left">I am a Software Developer based in Rwanda, Kigali </h3>
 
+<br>
+<a href="#suhailkakar-title">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=react" alt="Ntwari Hugues"" align="right" />
+</a>
+
+
+
+- :seedling: &nbsp;I’m currently learning **[Typescript]**
+- :speech_balloon: &nbsp;I like to talk about **Web dev** and **JavaScript**
+- :mailbox: &nbsp;Ask me about anything, I am happy to help :)
+- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/hugues-ntwari-98457a131/" target="_blank">Linkedin </a>
+- :bird: &nbsp;Let's talk more on <a href="https://twitter.com/iAmHuguesNtwari" target="_blank">Twitter </a>
+
+<br>
+
+<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>                                                                                               
+
+> Tools & Technologies used:                                      
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind css" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MaterialUI
+    </td>
+   <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="react" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="react" width="48" height="48" alt="ts" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+   <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="react" width="48" height="48" alt="Nest" />
+      </a>
+      <br>Nest Js
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://seeklogo.com/images/D/digital-ocean-logo-7B970FE624-seeklogo.com.png" alt="react" width="48" height="48" alt="DO" />
+      </a>
+      <br>Digital O
+    </td>                                                                                                               
+  </tr>
   
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>PostgresSQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="48" height="48" alt="Heroku" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="48" height="48" alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+    <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+  </tr>
+  
+    
+</table>                                      
 
-<br>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugues0&show_icons=true&locale=en&cache_seconds=86400&theme=dark" alt="Ntwari Hugues" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=dark" alt="Ntwari Hugues" /></p>
-
-#### Tools & Technologies used:
-
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="25" height="25"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="25" height="25"/> </a> 
-<a href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind css" width="25" height="25"/> </a> 
-<a href="https://mui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="25" height="25"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="25" height="25"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="25"/> </a> 
-<a href="https://netlify.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify" width="25" height="25"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="25" height="25"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="25" height="25"/> </a>
-<a href="https://mochajs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" alt="Mocha" width="25" height="25"/> </a> 
-<a href="https://www.chaijs.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="Chai" width="25" height="25"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node js" width="25" height="25"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="25" height="25"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="25" height="25"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="25" height="25"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="25" height="25"/> </a>
-</p>
-
-<br>
-### 📫 Get in touch:
-<br>
-<br>
-<a href="https://twitter.com/iAmHuguesNtwari"><img src="https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=white" alt="website"/></a>
