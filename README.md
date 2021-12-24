@@ -8,7 +8,7 @@
 
 
 
-- :seedling: &nbsp;I’m currently learning **[Typescript]**
+- :seedling: &nbsp;I’m currently learning Typescript
 - :speech_balloon: &nbsp;I like to talk about **Web dev** and **JavaScript**
 - :mailbox: &nbsp;Ask me anything, I am happy to help :)
 - :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/hugues-ntwari-98457a131/" target="_blank">Linkedin </a>
