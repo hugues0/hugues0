@@ -2,11 +2,11 @@
 <h3 align="left">I am a Software Developer based in Kigali, Rwanda  </h3>
 
 <br>
-<a href="#suhailkakar-title">
+<a href="#">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=react" alt="Ntwari Hugues"" align="right" />
 </a>
-
-
+                                                                                                                                              
+<br>
 
 - :seedling: &nbsp;I’m currently learning Typescript
 - :speech_balloon: &nbsp;I like to talk about **Web dev** and **JavaScript**
