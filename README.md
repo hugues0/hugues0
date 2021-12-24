@@ -135,5 +135,8 @@
   </tr>
   
     
-</table>                                      
+</table>         
+                                                                                                   
+[![Hugues' github activity graph](https://activity-graph.herokuapp.com/graph?username=hugues0)](https://github.com/hugues0/github-readme-activity-graph)                                                                                                
+                                                                                                   
 
