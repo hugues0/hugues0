@@ -3,15 +3,15 @@
 
 <br>
 <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=react" alt="Ntwari Hugues"" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugues0&cache_seconds=86400&theme=react" alt="Ntwari Hugues" align="right" />
 </a>
                                                                                                                                               
 <br>
 
-- :seedling: &nbsp;I’m currently learning Typescript
-- :speech_balloon: &nbsp;I like to talk about **Web dev** and **JavaScript**
-- :mailbox: &nbsp;Ask me anything, I am happy to help :)
-- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/hugues-ntwari-98457a131/" target="_blank">Linkedin </a>
+- :seedling: &nbsp;I’m currently learning Typescript <br>
+- :speech_balloon: &nbsp;I like to talk about **Web dev** and **JavaScript** <br>
+- :mailbox: &nbsp;Ask me anything, I am happy to help :) <br>
+- :computer: &nbsp;Connect with me on <a href="https://www.linkedin.com/in/hugues-ntwari-98457a131/" target="_blank">Linkedin </a> <br>
 - :bird: &nbsp;Let's talk more on <a href="https://twitter.com/iAmHuguesNtwari" target="_blank">Twitter </a>
 
 <br>
