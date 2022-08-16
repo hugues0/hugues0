@@ -1,6 +1,6 @@
 ### Hi there! 👋, I'm Hugues, Ntwari Hugues
 
-### I'm a full-stack web developer based in Kigali - Rwanda
+### I'm a full-stack developer based in Kigali - Rwanda
 
 
 - :seedling: &nbsp;I’m currently learning Typescript <br>
