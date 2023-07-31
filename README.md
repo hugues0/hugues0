@@ -3,7 +3,7 @@
 ### I'm a full-stack developer based in Kigali - Rwanda
 
 
-- :seedling: &nbsp;I’m currently learning Typescript <br>
+- :seedling: &nbsp;I’m currently trying to get better with DevOps <br>
 - :speech_balloon: &nbsp;I like to talk about **Web dev** and **JavaScript** <br>
 - :mailbox: &nbsp;Ask me anything, I am happy to help :) <br>
 
