@@ -15,11 +15,13 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;
-![MUI](https://img.shields.io/static/v1?style=flat&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF&label=)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)&nbsp;
+![React_Query](https://img.shields.io/badge/React_query-0080FF?style=flat&logo=ReactQuery&logoColor=white)&nbsp;
+
+
 
 
 
