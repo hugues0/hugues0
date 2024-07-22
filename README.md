@@ -9,7 +9,6 @@
 
 ### 🛠&nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/static/v1?style=flat&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
